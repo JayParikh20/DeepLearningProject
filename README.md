@@ -5,7 +5,7 @@ Install pre-requisites of the simulator and other depended packaged using
 > pip install -r requirements.txt
 
 ## For Training
-1. Donwload the DATA_1.zip model using this link [Google Drive Link]([https://pages.github.com/](https://drive.google.com/drive/folders/1AViLJLD-hH5JD4UnCZ7pi4lqX8ZQdx4m?usp=sharing)
+1. Donwload the DATA_1.zip model using this link [Google Drive Link](https://drive.google.com/drive/folders/1AViLJLD-hH5JD4UnCZ7pi4lqX8ZQdx4m?usp=sharing)
 2. Upload the Network_trainer_modified.ipynb jupyter notebook to Google Colab
 3. Copy DATA_1.zip to google colab files section
 4. Run all cells

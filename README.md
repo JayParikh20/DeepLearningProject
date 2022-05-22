@@ -1,4 +1,4 @@
-# Self Drviing Car Deep Learning Project
+# Self Driving Car Deep Learning Project
 
 ## Installation Setup
 Install pre-requisites of the simulator and other depended packaged using 

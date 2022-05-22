@@ -9,7 +9,7 @@ Install pre-requisites of the simulator and other depended packaged using
 2. Upload the Network_trainer_modified.ipynb jupyter notebook to Google Colab
 3. Copy DATA_1.zip to google colab files section
 4. Run all cells
-5. Trained model will be automatically installed.
+5. Trained model will be automatically downloaded.
 
 ## For Testing
 1. Install the latest version of CARLA (tested on 0.9.13). 
